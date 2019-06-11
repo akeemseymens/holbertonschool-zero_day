@@ -1,0 +1,1 @@
+This file is to determine how to use emacs in this project module.
